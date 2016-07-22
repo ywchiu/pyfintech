@@ -29,3 +29,7 @@
 ## 應用案例
 ### 投影片
 - https://www.slideshare.net/secret/qLIlyeRDhWD8Fk
+
+
+## 額外知識
+- http://www.tylervigen.com/spurious-correlations
