@@ -7,6 +7,9 @@
 ### Tableau Public
 - https://public.tableau.com/s/download
 
+### MySQL
+- http://192.168.35.5/mysql-5.7.13-winx64.zip
+
 ## Python 簡介
 
 ### Python 入門投影片
