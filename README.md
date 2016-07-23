@@ -8,7 +8,7 @@
 - https://public.tableau.com/s/download
 
 ### MySQL
-- http://192.168.35.5/mysql-5.7.13-winx64.zip
+- http://192.168.35.5/mysql-installer-community-5.7.13.0.msi
 
 ## Python 簡介
 
