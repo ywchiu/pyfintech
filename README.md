@@ -33,6 +33,8 @@
 ### 投影片
 - https://www.slideshare.net/secret/qLIlyeRDhWD8Fk
 
-
 ## 額外知識
 - http://www.tylervigen.com/spurious-correlations
+
+## 使用Tableau 做財經資訊視覺化
+- https://youtu.be/C0xcXvte8N0
