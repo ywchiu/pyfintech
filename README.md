@@ -30,7 +30,7 @@
 - https://www.slideshare.net/secret/qtUtFOOQow5qEY
 
 ### scikit-learn 套件使用方法
-- https://github.com/ywchiu/pyfintech/blob/master/scikit_learn.ipynb
+- https://github.com/c3h3/NCCU-PyData-Courses-2013Spring/blob/master/Lecture4/scikit_learn/scikit_learn.ipynb
 
 ### 預測客戶是否採用定存
 - https://github.com/ywchiu/pyfintech/blob/master/ml_tutorial.ipynb
