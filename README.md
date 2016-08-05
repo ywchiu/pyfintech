@@ -29,12 +29,18 @@
 ### 投影片
 - https://www.slideshare.net/secret/qtUtFOOQow5qEY
 
+### scikit-learn 套件使用方法
+- https://github.com/ywchiu/pyfintech/blob/master/scikit_learn.ipynb
+
+### 預測客戶是否採用定存
+- https://github.com/ywchiu/pyfintech/blob/master/ml_tutorial.ipynb
+
+### 使用Tableau 做財經資訊視覺化
+- https://youtu.be/C0xcXvte8N0
+
 ## 應用案例
 ### 投影片
 - https://www.slideshare.net/secret/qLIlyeRDhWD8Fk
 
 ## 額外知識
 - http://www.tylervigen.com/spurious-correlations
-
-## 使用Tableau 做財經資訊視覺化
-- https://youtu.be/C0xcXvte8N0
