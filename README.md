@@ -42,12 +42,6 @@
 ### 投影片
 - https://www.slideshare.net/secret/qLIlyeRDhWD8Fk
 
-### 預測客戶是否採用定存
-- https://github.com/ywchiu/pyfintech/blob/master/ml_tutorial.ipynb
-
-### 使用Tableau 做財經資訊視覺化
-- https://youtu.be/C0xcXvte8N0
-
 ### 從Google Trend 分析金融交易行為 
 - https://github.com/ywchiu/pyfintech/blob/master/pandas_in_finance.ipynb
 
