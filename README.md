@@ -48,5 +48,8 @@
 ### 流感 v.s.康那香(9919)
 - https://github.com/ywchiu/pyfintech/blob/master/googletrend_flu.ipynb
 
+### 貸款違約用戶探勘 
+- https://github.com/ywchiu/pyfintech/blob/master/credit_default.ipynb
+
 ## 額外知識
 - http://www.tylervigen.com/spurious-correlations
