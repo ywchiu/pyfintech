@@ -51,5 +51,11 @@
 ### 貸款違約用戶探勘 
 - https://github.com/ywchiu/pyfintech/blob/master/credit_default.ipynb
 
+### 繪製文字雲
+- https://youtu.be/F5nbs-4Hjms
+
+### 文字分群
+- https://github.com/ywchiu/pyfintech/blob/master/creditcard_clustering.ipynb
+
 ## 額外知識
 - http://www.tylervigen.com/spurious-correlations
